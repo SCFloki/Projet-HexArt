@@ -1,0 +1,2 @@
+int valeurRandom();
+long temps();
